@@ -1,0 +1,163 @@
+2015-02-22 00:31:32.655 SQLExample[13802:681306] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/joelmathys/Library/Developer/CoreSimulator/Devices/FBEC6E09-F599-46EB-A4A5-8DD7D9810B39/data/Containers/Data/Application/D9E5F7AF-334F-4596-8925-20E0FFA3FAD0/Library/Cookies/Cookies.binarycookies
+2015-02-22 00:31:34.291 SQLExample[13802:681306] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-22 00:31:34.291 SQLExample[13802:681306] Multi-tasking -> Device: YES, App: YES
+2015-02-22 00:31:34.306 SQLExample[13802:681306] Unlimited access to network resources
+2015-02-22 00:31:35.299 SQLExample[13802:681306] [CDVTimer][keyboard] 0.065982ms
+2015-02-22 00:31:35.299 SQLExample[13802:681306] [CDVTimer][TotalPluginStartup] 0.622034ms
+2015-02-22 00:31:36.485 SQLExample[13802:681306] Resetting plugins due to page load.
+2015-02-22 00:31:37.157 SQLExample[13802:681306] Finished load of: file:///Users/joelmathys/Library/Developer/CoreSimulator/Devices/FBEC6E09-F599-46EB-A4A5-8DD7D9810B39/data/Containers/Bundle/Application/274402AA-EF62-484B-BB1B-533E55E2EBB9/SQLExample.app/www/index.html
+2015-02-22 00:31:37.222 SQLExample[13802:681306] Detected docs path: /Users/joelmathys/Library/Developer/CoreSimulator/Devices/FBEC6E09-F599-46EB-A4A5-8DD7D9810B39/data/Containers/Data/Application/D9E5F7AF-334F-4596-8925-20E0FFA3FAD0/Documents
+2015-02-22 00:31:37.222 SQLExample[13802:681306] Detected Library path: /Users/joelmathys/Library/Developer/CoreSimulator/Devices/FBEC6E09-F599-46EB-A4A5-8DD7D9810B39/data/Containers/Data/Application/D9E5F7AF-334F-4596-8925-20E0FFA3FAD0/Library
+2015-02-22 00:31:37.222 SQLExample[13802:681306] no cloud sync at path: /Users/joelmathys/Library/Developer/CoreSimulator/Devices/FBEC6E09-F599-46EB-A4A5-8DD7D9810B39/data/Containers/Data/Application/D9E5F7AF-334F-4596-8925-20E0FFA3FAD0/Library/LocalDatabase
+2015-02-22 00:31:37.222 SQLExample[13802:681306] -[__NSDictionaryM length]: unrecognized selector sent to instance 0x7b7d1790
+2015-02-22 00:31:37.223 SQLExample[13802:681306] *** WebKit discarded an uncaught exception in the webView:decidePolicyForNavigationAction:request:frame:decisionListener: delegate: <NSInvalidArgumentException> -[__NSDictionaryM length]: unrecognized selector sent to instance 0x7b7d1790
+2015-02-22 00:31:37.224 SQLExample[13802:681306] onDevice start: try to create database
+2015-02-22 00:31:37.224 SQLExample[13802:681306] SQLitePlugin openargs: {"name":{"name":"my.db"},"bgType":0,"dblocation":"docs"}
+2015-02-22 00:31:37.225 SQLExample[13802:681306] should now have created the db
+2015-02-22 00:31:40.288 SQLExample[13802:681306] call fucntion add()
+2015-02-22 00:31:42.240 SQLExample[13802:681306] call fucntion add()
+2015-02-22 00:31:43.008 SQLExample[13802:681306] call fucntion add()
+2015-02-22 00:31:44.458 SQLExample[13802:681306] insert function with: JoelMathys
+2015-02-22 00:31:44.463 SQLExample[13802:681306] ERROR: No such database, you must open it first
+2015-02-22 00:31:48.407 SQLExample[13802:681306] insert function with: JoelMathys
+2015-02-22 00:31:48.416 SQLExample[13802:681306] ERROR: No such database, you must open it first
+2015-02-22 00:31:52.034 SQLExample[13802:681306] insert function with: JoelMathys
+2015-02-22 00:31:52.039 SQLExample[13802:681306] ERROR: No such database, you must open it first
+2015-02-22 00:31:53.481 SQLExample[13802:681306] selct function with Mathys
+2015-02-22 00:31:53.490 SQLExample[13802:681306] ERROR: No such database, you must open it first
+2015-02-22 00:32:42.476 SQLExample[13802:681306] call fucntion add()
+2015-02-22 00:32:42.948 SQLExample[13802:681306] call fucntion add()
+2015-02-22 00:32:43.115 SQLExample[13802:681306] call fucntion add()
+2015-02-22 00:32:43.288 SQLExample[13802:681306] call fucntion add()
+2015-02-22 00:32:43.465 SQLExample[13802:681306] call fucntion add()
+2015-02-22 00:32:43.635 SQLExample[13802:681306] call fucntion add()
+2015-02-22 00:32:43.839 SQLExample[13802:681306] call fucntion add()
+2015-02-22 00:32:44.038 SQLExample[13802:681306] call fucntion add()
+2015-02-22 00:32:45.062 SQLExample[13961:682020] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/joelmathys/Library/Developer/CoreSimulator/Devices/FBEC6E09-F599-46EB-A4A5-8DD7D9810B39/data/Containers/Data/Application/9D990267-588F-4079-A0A8-7EF14DA00709/Library/Cookies/Cookies.binarycookies
+2015-02-22 00:32:45.194 SQLExample[13961:682020] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-22 00:32:45.195 SQLExample[13961:682020] Multi-tasking -> Device: YES, App: YES
+2015-02-22 00:32:45.196 SQLExample[13961:682020] Unlimited access to network resources
+2015-02-22 00:32:45.446 SQLExample[13961:682020] [CDVTimer][keyboard] 0.063002ms
+2015-02-22 00:32:45.446 SQLExample[13961:682020] [CDVTimer][TotalPluginStartup] 0.247002ms
+2015-02-22 00:32:45.516 SQLExample[13961:682020] Resetting plugins due to page load.
+2015-02-22 00:32:45.658 SQLExample[13961:682020] Finished load of: file:///Users/joelmathys/Library/Developer/CoreSimulator/Devices/FBEC6E09-F599-46EB-A4A5-8DD7D9810B39/data/Containers/Bundle/Application/6D242416-99D2-4EAA-8283-978A721F4B19/SQLExample.app/www/index.html
+2015-02-22 00:33:16.403 SQLExample[14120:682545] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/joelmathys/Library/Developer/CoreSimulator/Devices/FBEC6E09-F599-46EB-A4A5-8DD7D9810B39/data/Containers/Data/Application/28532BA5-5381-4A07-820C-1CAA9134D288/Library/Cookies/Cookies.binarycookies
+2015-02-22 00:33:16.541 SQLExample[14120:682545] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-22 00:33:16.542 SQLExample[14120:682545] Multi-tasking -> Device: YES, App: YES
+2015-02-22 00:33:16.543 SQLExample[14120:682545] Unlimited access to network resources
+2015-02-22 00:33:16.793 SQLExample[14120:682545] [CDVTimer][keyboard] 0.061035ms
+2015-02-22 00:33:16.793 SQLExample[14120:682545] [CDVTimer][TotalPluginStartup] 0.241995ms
+2015-02-22 00:33:16.861 SQLExample[14120:682545] Resetting plugins due to page load.
+2015-02-22 00:33:17.005 SQLExample[14120:682545] Finished load of: file:///Users/joelmathys/Library/Developer/CoreSimulator/Devices/FBEC6E09-F599-46EB-A4A5-8DD7D9810B39/data/Containers/Bundle/Application/57B6672D-AB32-43E7-A5F2-6617E00A3834/SQLExample.app/www/index.html
+2015-02-22 00:33:42.446 SQLExample[14279:683052] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/joelmathys/Library/Developer/CoreSimulator/Devices/FBEC6E09-F599-46EB-A4A5-8DD7D9810B39/data/Containers/Data/Application/796D4F0C-7AB4-4FEA-9187-626CE1F69E91/Library/Cookies/Cookies.binarycookies
+2015-02-22 00:33:42.574 SQLExample[14279:683052] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-22 00:33:42.574 SQLExample[14279:683052] Multi-tasking -> Device: YES, App: YES
+2015-02-22 00:33:42.577 SQLExample[14279:683052] Unlimited access to network resources
+2015-02-22 00:33:42.825 SQLExample[14279:683052] [CDVTimer][keyboard] 0.055969ms
+2015-02-22 00:33:42.825 SQLExample[14279:683052] [CDVTimer][TotalPluginStartup] 0.236034ms
+2015-02-22 00:33:42.896 SQLExample[14279:683052] Resetting plugins due to page load.
+2015-02-22 00:33:43.098 SQLExample[14279:683052] Finished load of: file:///Users/joelmathys/Library/Developer/CoreSimulator/Devices/FBEC6E09-F599-46EB-A4A5-8DD7D9810B39/data/Containers/Bundle/Application/26527B0B-8EB8-4934-8A9C-D75CFD7A4A2B/SQLExample.app/www/index.html
+2015-02-22 00:33:43.167 SQLExample[14279:683052] Detected docs path: /Users/joelmathys/Library/Developer/CoreSimulator/Devices/FBEC6E09-F599-46EB-A4A5-8DD7D9810B39/data/Containers/Data/Application/796D4F0C-7AB4-4FEA-9187-626CE1F69E91/Documents
+2015-02-22 00:33:43.168 SQLExample[14279:683052] Detected Library path: /Users/joelmathys/Library/Developer/CoreSimulator/Devices/FBEC6E09-F599-46EB-A4A5-8DD7D9810B39/data/Containers/Data/Application/796D4F0C-7AB4-4FEA-9187-626CE1F69E91/Library
+2015-02-22 00:33:43.168 SQLExample[14279:683052] no cloud sync at path: /Users/joelmathys/Library/Developer/CoreSimulator/Devices/FBEC6E09-F599-46EB-A4A5-8DD7D9810B39/data/Containers/Data/Application/796D4F0C-7AB4-4FEA-9187-626CE1F69E91/Library/LocalDatabase
+2015-02-22 00:33:43.168 SQLExample[14279:683052] -[__NSDictionaryM length]: unrecognized selector sent to instance 0x7a09dc40
+2015-02-22 00:33:43.168 SQLExample[14279:683052] *** WebKit discarded an uncaught exception in the webView:decidePolicyForNavigationAction:request:frame:decisionListener: delegate: <NSInvalidArgumentException> -[__NSDictionaryM length]: unrecognized selector sent to instance 0x7a09dc40
+2015-02-22 00:33:43.169 SQLExample[14279:683052] onDevice start: try to create database
+2015-02-22 00:33:43.169 SQLExample[14279:683052] SQLitePlugin openargs: {"name":{"name":"my.db"},"bgType":0,"dblocation":"docs"}
+2015-02-22 00:33:43.170 SQLExample[14279:683052] should now have created the db
+2015-02-22 00:33:44.547 SQLExample[14279:683052] call fucntion add()
+2015-02-22 00:33:48.363 SQLExample[14279:683052] insert function with: JoelMathys
+2015-02-22 00:33:48.368 SQLExample[14279:683052] ERROR: No such database, you must open it first
+2015-02-22 00:33:50.104 SQLExample[14279:683052] selct function with Mathys
+2015-02-22 00:33:50.109 SQLExample[14279:683052] ERROR: No such database, you must open it first
+2015-02-22 00:33:51.697 SQLExample[14279:683052] insert function with: JoelMathys
+2015-02-22 00:33:51.702 SQLExample[14279:683052] ERROR: No such database, you must open it first
+2015-02-22 00:33:56.182 SQLExample[14279:683052] insert function with: JoelMathys
+2015-02-22 00:33:56.189 SQLExample[14279:683052] ERROR: No such database, you must open it first
+2015-02-22 00:33:56.375 SQLExample[14279:683052] insert function with: JoelMathys
+2015-02-22 00:33:56.380 SQLExample[14279:683052] ERROR: No such database, you must open it first
+2015-02-22 00:33:56.584 SQLExample[14279:683052] insert function with: JoelMathys
+2015-02-22 00:33:56.593 SQLExample[14279:683052] ERROR: No such database, you must open it first
+2015-02-22 00:33:56.794 SQLExample[14279:683052] insert function with: JoelMathys
+2015-02-22 00:33:56.798 SQLExample[14279:683052] ERROR: No such database, you must open it first
+2015-02-22 00:39:30.971 SQLExample[14279:683052] call fucntion add()
+2015-02-22 00:39:30.983 SQLExample[14279:683052] THREAD WARNING: ['Console'] took '11.857910' ms. Plugin should use a background thread.
+2015-02-22 00:40:30.005 SQLExample[14462:688372] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/joelmathys/Library/Developer/CoreSimulator/Devices/FBEC6E09-F599-46EB-A4A5-8DD7D9810B39/data/Containers/Data/Application/A4730F01-D366-4F87-B90F-9F9FF1D799F7/Library/Cookies/Cookies.binarycookies
+2015-02-22 00:40:30.273 SQLExample[14462:688372] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-22 00:40:30.274 SQLExample[14462:688372] Multi-tasking -> Device: YES, App: YES
+2015-02-22 00:40:30.275 SQLExample[14462:688372] Unlimited access to network resources
+2015-02-22 00:40:30.608 SQLExample[14462:688372] [CDVTimer][keyboard] 0.057995ms
+2015-02-22 00:40:30.609 SQLExample[14462:688372] [CDVTimer][TotalPluginStartup] 0.243008ms
+2015-02-22 00:40:32.125 SQLExample[14462:688372] Resetting plugins due to page load.
+2015-02-22 00:40:32.517 SQLExample[14462:688372] Finished load of: file:///Users/joelmathys/Library/Developer/CoreSimulator/Devices/FBEC6E09-F599-46EB-A4A5-8DD7D9810B39/data/Containers/Bundle/Application/7C71E9D9-EEAB-4624-AC5E-F1881BFF3269/SQLExample.app/www/index.html
+2015-02-22 00:40:32.557 SQLExample[14462:688372] Detected docs path: /Users/joelmathys/Library/Developer/CoreSimulator/Devices/FBEC6E09-F599-46EB-A4A5-8DD7D9810B39/data/Containers/Data/Application/A4730F01-D366-4F87-B90F-9F9FF1D799F7/Documents
+2015-02-22 00:40:32.557 SQLExample[14462:688372] Detected Library path: /Users/joelmathys/Library/Developer/CoreSimulator/Devices/FBEC6E09-F599-46EB-A4A5-8DD7D9810B39/data/Containers/Data/Application/A4730F01-D366-4F87-B90F-9F9FF1D799F7/Library
+2015-02-22 00:40:32.558 SQLExample[14462:688372] no cloud sync at path: /Users/joelmathys/Library/Developer/CoreSimulator/Devices/FBEC6E09-F599-46EB-A4A5-8DD7D9810B39/data/Containers/Data/Application/A4730F01-D366-4F87-B90F-9F9FF1D799F7/Library/LocalDatabase
+2015-02-22 00:40:32.558 SQLExample[14462:688372] -[__NSDictionaryM length]: unrecognized selector sent to instance 0x797470d0
+2015-02-22 00:40:32.558 SQLExample[14462:688372] *** WebKit discarded an uncaught exception in the webView:decidePolicyForNavigationAction:request:frame:decisionListener: delegate: <NSInvalidArgumentException> -[__NSDictionaryM length]: unrecognized selector sent to instance 0x797470d0
+2015-02-22 00:40:32.559 SQLExample[14462:688372] onDevice start: try to create database
+2015-02-22 00:40:32.559 SQLExample[14462:688372] SQLitePlugin openargs: {"name":{"name":"my.db"},"bgType":0,"dblocation":"docs"}
+2015-02-22 00:40:32.560 SQLExample[14462:688372] should now have created the db
+2015-02-22 00:40:41.001 SQLExample[14462:688372] call fucntion add()
+2015-02-22 00:40:41.020 SQLExample[14462:688372] THREAD WARNING: ['Console'] took '18.919922' ms. Plugin should use a background thread.
+2015-02-22 00:40:48.627 SQLExample[14462:688372] insert function with: JoelMathys
+2015-02-22 00:40:48.632 SQLExample[14462:688372] ERROR: No such database, you must open it first
+2015-02-22 00:40:50.499 SQLExample[14462:688372] selct function with Mathys
+2015-02-22 00:40:50.507 SQLExample[14462:688372] ERROR: No such database, you must open it first
+2015-02-22 00:40:51.992 SQLExample[14462:688372] insert function with: JoelMathys
+2015-02-22 00:40:51.997 SQLExample[14462:688372] ERROR: No such database, you must open it first
+2015-02-22 00:40:52.256 SQLExample[14462:688372] insert function with: JoelMathys
+2015-02-22 00:40:52.261 SQLExample[14462:688372] ERROR: No such database, you must open it first
+2015-02-22 00:40:52.612 SQLExample[14462:688372] insert function with: JoelMathys
+2015-02-22 00:40:52.617 SQLExample[14462:688372] ERROR: No such database, you must open it first
+2015-02-22 00:40:52.812 SQLExample[14462:688372] insert function with: JoelMathys
+2015-02-22 00:40:52.817 SQLExample[14462:688372] ERROR: No such database, you must open it first
+2015-02-22 00:40:53.015 SQLExample[14462:688372] insert function with: JoelMathys
+2015-02-22 00:40:53.020 SQLExample[14462:688372] ERROR: No such database, you must open it first
+2015-02-22 00:40:53.200 SQLExample[14462:688372] insert function with: JoelMathys
+2015-02-22 00:40:53.206 SQLExample[14462:688372] ERROR: No such database, you must open it first
+2015-02-22 00:41:22.528 SQLExample[14462:688372] call fucntion add()
+2015-02-22 00:41:25.476 SQLExample[14462:688372] selct function with Mathys
+2015-02-22 00:41:25.480 SQLExample[14462:688372] ERROR: No such database, you must open it first
+2015-02-22 00:41:25.662 SQLExample[14462:688372] selct function with Mathys
+2015-02-22 00:41:25.666 SQLExample[14462:688372] ERROR: No such database, you must open it first
+2015-02-22 00:41:25.864 SQLExample[14462:688372] selct function with Mathys
+2015-02-22 00:41:25.869 SQLExample[14462:688372] ERROR: No such database, you must open it first
+2015-02-22 00:44:20.740 SQLExample[14629:691750] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/joelmathys/Library/Developer/CoreSimulator/Devices/FBEC6E09-F599-46EB-A4A5-8DD7D9810B39/data/Containers/Data/Application/F80568E6-9636-4A56-9D1F-CC334085EC27/Library/Cookies/Cookies.binarycookies
+2015-02-22 00:44:21.072 SQLExample[14629:691750] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-22 00:44:21.073 SQLExample[14629:691750] Multi-tasking -> Device: YES, App: YES
+2015-02-22 00:44:21.074 SQLExample[14629:691750] Unlimited access to network resources
+2015-02-22 00:44:21.422 SQLExample[14629:691750] [CDVTimer][keyboard] 0.061989ms
+2015-02-22 00:44:21.422 SQLExample[14629:691750] [CDVTimer][TotalPluginStartup] 0.244021ms
+2015-02-22 00:44:22.208 SQLExample[14629:691750] Resetting plugins due to page load.
+2015-02-22 00:44:22.585 SQLExample[14629:691750] Finished load of: file:///Users/joelmathys/Library/Developer/CoreSimulator/Devices/FBEC6E09-F599-46EB-A4A5-8DD7D9810B39/data/Containers/Bundle/Application/C0EB59CA-6943-401F-B013-BCCBD6A40597/SQLExample.app/www/index.html
+2015-02-22 00:44:22.649 SQLExample[14629:691750] Detected docs path: /Users/joelmathys/Library/Developer/CoreSimulator/Devices/FBEC6E09-F599-46EB-A4A5-8DD7D9810B39/data/Containers/Data/Application/F80568E6-9636-4A56-9D1F-CC334085EC27/Documents
+2015-02-22 00:44:22.649 SQLExample[14629:691750] Detected Library path: /Users/joelmathys/Library/Developer/CoreSimulator/Devices/FBEC6E09-F599-46EB-A4A5-8DD7D9810B39/data/Containers/Data/Application/F80568E6-9636-4A56-9D1F-CC334085EC27/Library
+2015-02-22 00:44:22.649 SQLExample[14629:691750] no cloud sync at path: /Users/joelmathys/Library/Developer/CoreSimulator/Devices/FBEC6E09-F599-46EB-A4A5-8DD7D9810B39/data/Containers/Data/Application/F80568E6-9636-4A56-9D1F-CC334085EC27/Library/LocalDatabase
+2015-02-22 00:44:22.650 SQLExample[14629:691750] -[__NSDictionaryM length]: unrecognized selector sent to instance 0x78fb9510
+2015-02-22 00:44:22.650 SQLExample[14629:691750] *** WebKit discarded an uncaught exception in the webView:decidePolicyForNavigationAction:request:frame:decisionListener: delegate: <NSInvalidArgumentException> -[__NSDictionaryM length]: unrecognized selector sent to instance 0x78fb9510
+2015-02-22 00:44:22.651 SQLExample[14629:691750] SQLitePlugin openargs: {"name":{"name":"my.db"},"bgType":0,"dblocation":"docs"}
+2015-02-22 00:44:51.256 SQLExample[14629:691750] ERROR: No such database, you must open it first
+2015-02-22 00:44:52.724 SQLExample[14629:691750] ERROR: No such database, you must open it first
+2015-02-22 12:55:33.878 SQLExample[15686:752454] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/joelmathys/Library/Developer/CoreSimulator/Devices/FBEC6E09-F599-46EB-A4A5-8DD7D9810B39/data/Containers/Data/Application/EA815C7D-3A7F-43D5-B449-0042F311B7B7/Library/Cookies/Cookies.binarycookies
+2015-02-22 12:55:34.335 SQLExample[15686:752454] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-22 12:55:34.335 SQLExample[15686:752454] Multi-tasking -> Device: YES, App: YES
+2015-02-22 12:55:34.336 SQLExample[15686:752454] Unlimited access to network resources
+2015-02-22 12:55:34.716 SQLExample[15686:752454] [CDVTimer][keyboard] 0.074029ms
+2015-02-22 12:55:34.716 SQLExample[15686:752454] [CDVTimer][TotalPluginStartup] 0.282049ms
+2015-02-22 12:55:35.564 SQLExample[15686:752454] Resetting plugins due to page load.
+2015-02-22 12:55:35.903 SQLExample[15686:752454] Finished load of: file:///Users/joelmathys/Library/Developer/CoreSimulator/Devices/FBEC6E09-F599-46EB-A4A5-8DD7D9810B39/data/Containers/Bundle/Application/0FEEA1E7-E1E1-4EEE-A99D-4245590F6D33/SQLExample.app/www/index.html
+2015-02-22 12:55:35.992 SQLExample[15686:752454] Detected docs path: /Users/joelmathys/Library/Developer/CoreSimulator/Devices/FBEC6E09-F599-46EB-A4A5-8DD7D9810B39/data/Containers/Data/Application/EA815C7D-3A7F-43D5-B449-0042F311B7B7/Documents
+2015-02-22 12:55:35.993 SQLExample[15686:752454] Detected Library path: /Users/joelmathys/Library/Developer/CoreSimulator/Devices/FBEC6E09-F599-46EB-A4A5-8DD7D9810B39/data/Containers/Data/Application/EA815C7D-3A7F-43D5-B449-0042F311B7B7/Library
+2015-02-22 12:55:35.993 SQLExample[15686:752454] no cloud sync at path: /Users/joelmathys/Library/Developer/CoreSimulator/Devices/FBEC6E09-F599-46EB-A4A5-8DD7D9810B39/data/Containers/Data/Application/EA815C7D-3A7F-43D5-B449-0042F311B7B7/Library/LocalDatabase
+2015-02-22 12:55:35.993 SQLExample[15686:752454] -[__NSDictionaryM length]: unrecognized selector sent to instance 0x786ef170
+2015-02-22 12:55:35.994 SQLExample[15686:752454] *** WebKit discarded an uncaught exception in the webView:decidePolicyForNavigationAction:request:frame:decisionListener: delegate: <NSInvalidArgumentException> -[__NSDictionaryM length]: unrecognized selector sent to instance 0x786ef170
+2015-02-22 12:55:35.994 SQLExample[15686:752454] SQLitePlugin openargs: {"name":{"name":"my.db"},"bgType":0,"dblocation":"docs"}
+2015-02-22 12:55:43.864 SQLExample[15686:752454] ERROR: No such database, you must open it first
+2015-02-22 12:55:47.018 SQLExample[15686:752454] ERROR: No such database, you must open it first
+2015-02-22 12:55:50.621 SQLExample[15686:752454] ERROR: No such database, you must open it first
+2015-02-22 12:55:52.023 SQLExample[15686:752454] ERROR: No such database, you must open it first
+2015-02-22 12:55:56.760 SQLExample[15686:752454] ERROR: No such database, you must open it first
+2015-02-22 12:55:57.412 SQLExample[15686:752454] ERROR: No such database, you must open it first
+2015-02-22 12:55:58.402 SQLExample[15686:752454] ERROR: No such database, you must open it first
+2015-02-22 12:55:59.669 SQLExample[15686:752454] ERROR: No such database, you must open it first
